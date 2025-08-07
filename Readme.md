@@ -9,7 +9,7 @@
 - control vs data flow
 - legend
 - Proper text to arrow like "publish trades"
-- Dotted lines for async message
+- ** Solid lines for sync, dashed lines for async communication**
 
 # Tools
 
